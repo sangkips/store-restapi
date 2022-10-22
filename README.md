@@ -33,7 +33,7 @@ python manage.py runserver
 ```
 ## Executing CRUD functionalities
 
-On your browser go to `http://127.0.0.1:8000/api/` to start using it.
+On your browser go to `http://0.0.0.0:8000/api/` to start using it.
 
 To experiment more it is better to us `Postman` because of its many functionalities.
 
