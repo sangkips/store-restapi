@@ -7,6 +7,7 @@ __pycache__
 .env
 venv/
 env/
+data
 
 # Database
 db.sqlite3
